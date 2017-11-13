@@ -16,6 +16,7 @@
 </node>
 <node CREATED="1505252180789" ID="Freemind_Link_607237473" MODIFIED="1505252183289" TEXT="nanoflares"/>
 </node>
+<node CREATED="1510598637248" ID="Freemind_Link_1697286824" MODIFIED="1510598680087" TEXT="Cepheid envelope is radiative rather than convective. The magnetic field may be suppressed"/>
 </node>
 </node>
 </node>
